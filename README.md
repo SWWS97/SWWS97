@@ -1,4 +1,4 @@
-```
+
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Farmer's%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
    </div>
@@ -35,4 +35,4 @@
 <img src=https://github-readme-stats.vercel.app/api?username=SWWS97&show_icons=true
          /> </div> 
    </div>
-```
+
