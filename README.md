@@ -1,6 +1,6 @@
 
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=SW's%20Code%20House&animation=fadeIn&fontColor=2E64FE&fontSize=80" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=SW's%20Code%20House&animation=fadeIn&fontColor=a0522d&fontSize=80" />
    </div>
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
