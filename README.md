@@ -1,6 +1,6 @@
 
 <div align= "center">
-   <img src="https://readme-decorate.vercel.app/api/get?type=star&text=%F0%9F%8F%A0SW%60s+Code+House%F0%9F%8F%A0&width=750&height=120&fontSize=80&fontWeight=800&useGradient=false&fontColor=%23a0522d&backgroundColor=%230d2a45&gradientColor1=&gradientColor2=">
+   <img src="https://readme-decorate.vercel.app/api/get?type=star&text=%F0%9F%8F%A0SW%60s+Code+House%F0%9F%8F%A0&width=750&height=120&fontSize=70&fontWeight=800&useGradient=false&fontColor=%23a0522d&backgroundColor=%230d2a45&gradientColor1=&gradientColor2=">
    <img src="https://t1.daumcdn.net/cafeattach/Uzlo/4bbdc77063d5375c45ad53464d892d64148a8cec">
    </div>
    <div style="text-align: left;"> 
