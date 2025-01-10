@@ -1,6 +1,6 @@
 
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=🏠SW's%20Code%20House🏠&animation=fade_Up&fontColor=a0522d&fontSize=80" />
+   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=🏠SW's%20Code%20House🏠&animation=reveal 1.5s cubic-bezier(0.77, 0, 0.175, 1) forwards;&fontColor=a0522d&fontSize=80" />
    <img src="https://t1.daumcdn.net/cafeattach/Uzlo/4bbdc77063d5375c45ad53464d892d64148a8cec">
    </div>
    <div style="text-align: left;"> 
