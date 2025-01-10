@@ -1,7 +1,7 @@
 
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=SW's%20Code%20House&animation=fadeIn&fontColor=a0522d&fontSize=80" />
-   <img ="[https://www.shutterstock.com/ko/image-illustration/cartoon-scene---illustration-children-307098902](https://t1.daumcdn.net/cafeattach/Uzlo/4bbdc77063d5375c45ad53464d892d64148a8cec)">
+   <img ="https://t1.daumcdn.net/cafeattach/Uzlo/4bbdc77063d5375c45ad53464d892d64148a8cec">
    </div>
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
